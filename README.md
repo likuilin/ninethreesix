@@ -120,3 +120,9 @@ More formal and concise summary of the combinatorics:
   * For a total of 144 combinations
 
 Which adds up to a grand total of 255, or, 4^4-1 (the one being OOOO).
+
+### Development
+
+I wish the [Twiddler Tuner](https://tuner.mytwiddler.com/) could export config files in a human-readable flat text layout. Since it only exports binary config files, and it does not have good version control features, it is hard to keep track of modifications.
+
+In this git repo, I will try to change this readme as I make any changes to the actual configuration. In the future, after a good third-party reverse-engineered flat format becomes standard, a future me may reconstruct the history of this project in a more human-diffable way.
