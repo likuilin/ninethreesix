@@ -34,7 +34,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
 |  2    5    8  | DEL  INS  NumL| sHOM sEND  s↓ | HOM  END   ↓  | (4) Pause/Break
 |               |               |               |               |
 |  3    6    9  |  •            |       •       |            •  |
-|               |               |               |               | Note: The numbers are not keypad keys,
+|               |               |               |               | Note: The numbers are not numpad keys,
 |            •  |            •  |(s=Shift)   •  |            •  |      they are standard keyboard nums
 '---------------+---------------+---------------+---------------'
                 .---------------.---------------.---------------.
@@ -103,18 +103,18 @@ More formal and concise summary of the combinatorics:
 
 * The first table assigns:
   * 12 = all single-btns
-  * 9*2 = all two-btns where (4R or 4M)
-  * 6*3 = all two-btns where (not 3O (equivalently, 3R or 3M or 3L)) and 4O
-  * 6*3*2 = all three-btns where (not 3O) and (4R or 4M)
+  * 9\*2 = all two-btns where (4R or 4M)
+  * 6\*3 = all two-btns where (not 3O (equivalently, 3R or 3M or 3L)) and 4O
+  * 6\*3\*2 = all three-btns where (not 3O) and (4R or 4M)
   * For a total of 84 combinations.
 * The second table assigns:
   * Note: Zero is an exception and counted in the third table
   * 9 = all two-btns where 4L
-  * 6*3 = all three-btns where (not 3O) and 4L
+  * 6\*3 = all three-btns where (not 3O) and 4L
   * For a total of 27 combinations.
 * The third table assigns:
-  * 3*3 = all two-btns where 3O and 4O
-  * 3*3*6 = all three-btns where (not 1O) and (not 2O)
+  * 3\*3 = all two-btns where 3O and 4O
+  * 3\*3\*6 = all three-btns where (not 1O) and (not 2O)
   * 3^4 = all four-btns
     * Note: Actually we only use a few of the four-btns - some, such as 1L 2R 3L 4R, are not representable as adjacent-button chords, and so this chart is insufficient to display them - which is okay since they are also too hard to hit.
   * For a total of 144 combinations
