@@ -60,11 +60,11 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               |
                 |  !=   '    ?  |  =    ;    (  |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  (x)  `    $  | (10) (11)  )  |  {    }   (x) | (10) Shift-F5
+                |  ion  `    $  | (10) (11)  )  |  {    }    fl | (10) Shift-F5
                 |---------------|---------------|---------------| (11) Shift-Enter
                 |  •            |       •       |            •  |
-                |               |               |               |
-                |            •  |            •  |            •  | (ou is the only MCC here)
+                |               |               |               | MCCs: ou, fl, ion
+                |            •  |            •  |            •  |
                 |               |               |               |
                 |  F19  F20  F21|  &    &&   ou |  <%   <   ESC |
                 |   F16  F17  F18   F13  F14  F15   F10  F11  F12 devtools :)
