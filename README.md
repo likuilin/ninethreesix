@@ -20,18 +20,18 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
 
 ```
 .---------------.---------------.---------------.---------------.---------------.
-|BCKSP SPC   s  |  a    h    s  |  g    b    j  |  p    d    z  | (1)   y    m  |
+|BCKSP SPC   s  |  a    h    s  |  g    b    j  |  p    d    z  |  x    y    m  |
 |               |               |               |               |               |
-|  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  |  x    w    f  | (1) o when used alone
-|               |               |               |               |               |    (repeated key) but
-|  i    e    o  |  i    e    o  |  •            |       •       |            •  |    ESC when used with
-|               |               |               |               |               |    CTRL or SHFT
+|  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  | (1)   w    f  | Just (1): DEL
+|               |               |               |               |               | SHFT-(1): Shift-DEL
+|  i    e    o  |  i    e    o  |  •            |       •       |            •  | CTRL-(1): Ctrl-V
+|               |               |               |               |               |
 |  a    h   TAB | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     |
 '---------------'---------------'---------------'---------------'---------------'
 .---------------.---------------.---------------.---------------.
-|  1    4    7  | (2)  (3)  (4) |  s←   s→   s↑ |  ←    →    ↑  | (2) PrintScreen/SysRq
+|  1    4    7  | (2)  (3)  (4) | sHOM s↑  sEND | HOM   ↑   END | (2) PrintScreen/SysRq
 |   0           |               |               |               | (3) Scroll Lock
-|  2    5    8  | DEL  INS  NumL| sHOM sEND  s↓ | HOM  END   ↓  | (4) Pause/Break
+|  2    5    8  | CapsL INS NumL|  s←  s↓   s→  |  ←    ↓    →  | (4) Pause/Break
 |               |               |               |               |
 |  3    6    9  |  •            |       •       |            •  |
 |               |               |               |               | Note: The numbers are not numpad keys,
@@ -40,7 +40,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 .---------------.---------------.---------------.
                 |  •            |       •       |            •  |
                 |               |               |               |
-                |  -    [    ]  | PUP   ;   PDN |  :    ,    .  |
+                |  -    [    ]  | PUP  ENTR PDN |  :    ,    .  |
                 |               |               |               |
                 |               |               |               |
                 |               |               |               |
@@ -50,17 +50,17 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    #   (7) |  +    @   (9) | (x)  (x)  (x) | (7) Ctrl-Alt-Del
+                |  /    #   (7) |  *    @   (9) | (x)  (x)  (x) | (7) Ctrl-Alt-Del
                 |   (8)         |               |               | (8) Ctrl-Z
-                |  \   (x)   0  |  *    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
+                |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
                 |---------------|---------------|---------------|
                 |  •            |       •       |            •  | (Think of $ and % as diagonal chords
                 |               |               |               |  on the numpad rather than down here)
                 |       •       |       •       |       •       |
                 |               |               |               |
-                |  !=   '    ?  |  =   ENTR  (  |  !    "    ?! |
+                |  !=   '    ?  |  =    ;    (  |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  ~    `    $  | (10) (11)  )  |  {    }   (x) | (10) Shift-F5
+                |  (x)  `    $  | (10) (11)  )  |  {    }   (x) | (10) Shift-F5
                 |---------------|---------------|---------------| (11) Shift-Enter
                 |  •            |       •       |            •  |
                 |               |               |               |
