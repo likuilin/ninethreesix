@@ -60,7 +60,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               |
                 |  !=   '    ?  |  =    ;    (  |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  ion  `    $  | (10) (11)  )  |  {    }    fl | (10) Shift-F5
+                |  ion  `    $  | (10) (11)  )  |  {    }   (x) | (10) Shift-F5
                 |---------------+---------------+---------------| (11) Shift-Enter
                 |  •            |       •       |            •  |
                 |               |               |               | MCCs: ou, fl, ion
@@ -70,6 +70,13 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |   F16  F17  F18   F13  F14  F15   F10  F11  F12 devtools :)
                 |  F22  F23  F24|  |    ||  (12)|  ]    >    _  | (12) Shift-Tab
                 '---------------'---------------'---------------'     (easy to hit during Alt-Tab)
+
+Extra MCCs:
+* LLLR: fl
+* LLMR: ju
+* xxMR
+* xxLM
+* xxLR
 
 Thumbs:
 * T0 is left click
