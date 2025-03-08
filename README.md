@@ -36,16 +36,16 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
 |  3    6    9  |  •            |       •       |            •  |
 |               |               |               |               | Note: The numbers are not numpad keys,
 |            •  |            •  |(s=Shift)   •  |            •  |      they are standard keyboard nums
-'---------------+---------------+---------------+---------------'
+'---------------------------------------------------------------'
                 .---------------.---------------.---------------.
                 |  •            |       •       |            •  |
                 |               |               |               |
-                |  -    [    ]  | PUP  ENTR PDN |  :    ,    .  |
+                |  -   PDN  PUP | (5) ENTR  (6) |  :    ,    .  | (5) Alt-←
+                |               |               |               | (6) Alt-→
                 |               |               |               |
                 |               |               |               |
                 |               |               |               |
-                |               |               |               |
-                |---------------|---------------|---------------|
+                |---------------+---------------+---------------|
                 |  •            |       •       |            •  |
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
@@ -53,7 +53,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |  /    #   (7) |  *    @   (9) | (x)  (x)  (x) | (7) Ctrl-Alt-Del
                 |   (8)         |               |               | (8) Ctrl-Z
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
-                |---------------|---------------|---------------|
+                |---------------+---------------+---------------|
                 |  •            |       •       |            •  | (Think of $ and % as diagonal chords
                 |               |               |               |  on the numpad rather than down here)
                 |       •       |       •       |       •       |
@@ -61,14 +61,14 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |  !=   '    ?  |  =    ;    (  |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
                 |  ion  `    $  | (10) (11)  )  |  {    }    fl | (10) Shift-F5
-                |---------------|---------------|---------------| (11) Shift-Enter
+                |---------------+---------------+---------------| (11) Shift-Enter
                 |  •            |       •       |            •  |
                 |               |               |               | MCCs: ou, fl, ion
                 |            •  |            •  |            •  |
                 |               |               |               |
-                |  F19  F20  F21|  &    &&   ou |  <%   <   ESC |
+                |  F19  F20  F21|  &    &&   ou |  [    <   ESC |
                 |   F16  F17  F18   F13  F14  F15   F10  F11  F12 devtools :)
-                |  F22  F23  F24|  |    ||  (12)|  %>   >    _  | (12) Shift-Tab
+                |  F22  F23  F24|  |    ||  (12)|  ]    >    _  | (12) Shift-Tab
                 '---------------'---------------'---------------'     (easy to hit during Alt-Tab)
 
 Thumbs:
