@@ -22,10 +22,10 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
 .---------------.---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  a    h    s  |  g    b    j  |  p    d    z  |  x    y    m  |
 |               |               |               |               |               |
-|  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  | (1)   w    f  | Just (1): DEL
-|               |               |               |               |               | SHFT-(1): Shift-DEL
+|  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  | (1)   w    f  | Just (1): i
+|               |               |               |               |               | SHFT-(1): DEL
 |  i    e    o  |  i    e    o  |  •            |       •       |            •  | CTRL-(1): Ctrl-V
-|               |               |               |               |               |
+|               |               |               |               |               | RRLM: Shift-DEL
 |  a    h   TAB | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     |
 '---------------'---------------'---------------'---------------'---------------'
 .---------------.---------------.---------------.---------------.
@@ -66,17 +66,10 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               | MCCs: ou, fl, ion
                 |            •  |            •  |            •  |
                 |               |               |               |
-                |  F19  F20  F21|  &    &&   ou |  [    <   ESC |
+                |  F19  F20  fl |  &    &&   ou |  [    <   ESC |
                 |   F16  F17  F18   F13  F14  F15   F10  F11  F12 devtools :)
                 |  F22  F23  F24|  |    ||  (12)|  ]    >    _  | (12) Shift-Tab
                 '---------------'---------------'---------------'     (easy to hit during Alt-Tab)
-
-Extra MCCs:
-* LLLR: fl
-* LLMR: ju
-* xxMR
-* xxLM
-* xxLR
 
 Thumbs:
 * T0 is left click
