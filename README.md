@@ -26,7 +26,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
 |               |               |               |               |               | SHFT-(1): DEL
 |  i    e    o  |  i    e    o  |  •            |       •       |            •  | CTRL-(1): Ctrl-V
 |               |               |               |               |               | RRLM: Shift-DEL
-|  a    h   TAB | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     |
+|  a    h   TAB |CTRL• SHFT•    | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     |
 '---------------'---------------'---------------'---------------'---------------'
 .---------------.---------------.---------------.---------------.
 |  1    4    7  | (2)  (3)  (4) | sHOM s↑  sEND | HOM   ↑   END | (2) PrintScreen/SysRq
