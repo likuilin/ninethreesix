@@ -16,8 +16,6 @@ This layout is called 936 (ninethreesix) because it maps the single characters t
 
 In the chart below, each box is a page, and • represents a key held down to access the page. Also, for the first row of pages, SHIFT/CTRL are optional modifiers. This is not really a formal chart, it's more of an image of my mental map of where everything is.
 
-TODO: All are mapped in the config file currently EXCEPT for the function keys except F5 and F12.
-
 ```
 .---------------.---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  a    h    s  |  g    b    j  |  p    d    z  |  x    y    m  |
@@ -50,7 +48,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    #   (7) |  *    @    ly | (x)  (x)  (x) | (7) Ctrl-Alt-Del
+                |  /    #   (7) |  *    @    ly |  ju  (x)  (x) | (7) Ctrl-Alt-Del
                 |   (8)  (9)    |               |               | (8) Ctrl-Z
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
                 |---------------+---------------+---------------|
@@ -63,10 +61,10 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |  ion  `    $  | (10) (11)  )  |  {    }   (x) | (10) Shift-F5
                 |---------------+---------------+---------------| (11) Shift-Enter
                 |  •            |       •       |            •  |
-                |               |               |               | MCCs: ou, fl, ion
+                |               |               |               |
                 |            •  |            •  |            •  |
                 |               |               |               |
-                | (x)   lf   fl |  &    &&   ou |  [    <   ESC |
+                |  fg   lf   fl |  &    &&   ou |  [    <   ESC |
                 |               |               |   F10  F11  F12 devtools :)
                 | (x)  (x)  (x) |  |    ||  (12)|  ]    >    _  | (12) Shift-Tab
                 '---------------'---------------'---------------'     (easy to hit during Alt-Tab)
