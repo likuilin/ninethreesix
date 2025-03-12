@@ -50,8 +50,8 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    #   (7) |  *    @   (9) | (x)  (x)  (x) | (7) Ctrl-Alt-Del
-                |   (8)         |               |               | (8) Ctrl-Z
+                |  /    #   (7) |  *    @    ly | (x)  (x)  (x) | (7) Ctrl-Alt-Del
+                |   (8)  (9)    |               |               | (8) Ctrl-Z
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
                 |---------------+---------------+---------------|
                 |  •            |       •       |            •  | (Think of $ and % as diagonal chords
@@ -66,7 +66,7 @@ TODO: All are mapped in the config file currently EXCEPT for the function keys e
                 |               |               |               | MCCs: ou, fl, ion
                 |            •  |            •  |            •  |
                 |               |               |               |
-                | (x)  (x)   fl |  &    &&   ou |  [    <   ESC |
+                | (x)   lf   fl |  &    &&   ou |  [    <   ESC |
                 |               |               |   F10  F11  F12 devtools :)
                 | (x)  (x)  (x) |  |    ||  (12)|  ]    >    _  | (12) Shift-Tab
                 '---------------'---------------'---------------'     (easy to hit during Alt-Tab)
