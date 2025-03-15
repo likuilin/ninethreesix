@@ -20,7 +20,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
 .---------------.---------------.---------------.---------------.---------------.
 |BCKSP SPC   s  |  a    h    s  |  g    b    j  |  p    d    z  |  x    y    m  |
 |               |               |               |               |               |
-|  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  | (1)   w    f  | Just (1): i
+|  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  | (1)   w    f  | Just (1): Ctrl-SPC
 |               |               |               |               |               | SHFT-(1): DEL
 |  i    e    o  |  i    e    o  |  •            |       •       |            •  | CTRL-(1): Ctrl-V
 |               |               |               |               |               | RRLM: Shift-DEL
