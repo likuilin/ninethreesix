@@ -48,7 +48,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    #   (7) |  *    @    ly |  ju  (x)  (x) | (7) Ctrl-Alt-Del
+                |  /    #   (7) |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Alt-Del
                 |   (8)  (9)    |               |               | (8) Ctrl-Z
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
                 |---------------+---------------+---------------|
@@ -56,18 +56,18 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |  on the numpad rather than down here)
                 |       •       |       •       |       •       |
                 |               |               |               |
-                |  !=   '    ?  |  =    ;    (  |  !    "    ?! |
+                |  !=   '    ?  |  =    ;    ly |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  ion  `    $  | (10) (11)  )  |  {    }   (x) | (10) Shift-F5
+                |  ion  `    $  | (10) (11) (12)|  {    }   (13)| (10) Shift-F5
                 |---------------+---------------+---------------| (11) Shift-Enter
-                |  •            |       •       |            •  |
+                |  •            |       •       |            •  | (12) Shift-Tab
+                |               |               |               | (13) Alt-Shift-5
+                |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                |            •  |            •  |            •  |
-                |               |               |               |
-                |  fg   lf   fl |  &    &&   ou |  [    <   ESC |
+                |  fg   lf   fl | (x)  (x)   ou |  &    |   ESC |
                 |               |               |   F10  F11  F12 devtools :)
-                | (x)  (x)  (x) |  |    ||  (12)|  ]    >    _  | (12) Shift-Tab
-                '---------------'---------------'---------------'     (easy to hit during Alt-Tab)
+                |  [    ]   (x) |  (    )   (15)|  [    ]    _  | (15) Alt-Tab (no holding)
+                '---------------'---------------'---------------'
 
 Thumbs:
 * T0 is left click
