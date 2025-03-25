@@ -58,16 +58,19 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  !=   '    ?  |  =    ;    ly |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  ion  `    $  | (10) (11) (12)|  {    }   (13)| (10) Shift-F5
+                |  ion  `    $  | (10) (11) (12)|  (    )   (13)| (10) Ctrl-Shift-T
                 |---------------+---------------+---------------| (11) Shift-Enter
                 |  •            |       •       |            •  | (12) Shift-Tab
                 |               |               |               | (13) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                |  fg   lf   fl | (x)  (x)   ou |  &    |   ESC |
+                |  fg   cl   fl | (x)  iou   ou |  &    |   ESC |
                 |               |               |   F10  F11  F12 devtools :)
-                |  [    ]   (x) |  (    )   (15)|  [    ]    _  | (15) Alt-Tab (no holding)
+                |  {    }   (x) |  [    ]   (15)|  <    >    _  | (15) Alt-Tab (no holding)
                 '---------------'---------------'---------------'
+
+Extra:
+* MRMR: Ctrl-Shift-V
 
 Thumbs:
 * T0 is left click
