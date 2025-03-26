@@ -48,8 +48,8 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    #   (7) |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Alt-Del
-                |   (8)  (9)    |               |               | (8) Ctrl-Z
+                |  /    _    #  |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Alt-Del
+                |   (8)  (9) (7)|               |               | (8) Ctrl-Z
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
                 |---------------+---------------+---------------|
                 |  •            |       •       |            •  | (Think of $ and % as diagonal chords
@@ -66,8 +66,9 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  fg   cl   fl | (x)  iou   ou |  &    |   ESC |
                 |               |               |   F10  F11  F12 devtools :)
-                |  {    }   (x) |  [    ]   (15)|  <    >    _  | (15) Alt-Tab (no holding)
-                '---------------'---------------'---------------'
+                |  {    }   (17)|  [    ]   (15)|  <    >   (16)| (15) Alt-Tab (no holding)
+                '---------------'---------------'---------------' (16) Alt-ESC
+                                                                  (17) Alt-Shift-Tab
 
 Extra:
 * MRMR: Ctrl-Shift-V
