@@ -52,7 +52,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |   (7)  (8)  (9)   (10)        |               | (8) Ctrl-\
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-Alt-Del
                 |---------------+---------------+---------------| (10) Alt-F4
-                |  •            |       •       |            •  | 
+                |  •            |       •       |            •  |
                 |               |               |               | (Think of $ and % as diagonal chords
                 |       •       |       •       |       •       |  on the numpad rather than down here)
                 |               |               |               |
@@ -64,9 +64,9 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                |  fg   cl   fl | (x)  iou   ou |  &    |   ESC | (15) Alt-Shift-Tab (single press)
-                |               |               |   F10  F11  F12 (16) Alt-Tab (single press)
-                |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-ESC
+                |  fg   cl   fl | (x)  iou   ou |  &    |   ESC | (15) Alt-ESC
+                |               |               |   F10  F11  F12 (16) Alt-Shift-Tab (single press)
+                |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-Tab (single press)
                 '---------------'---------------'---------------'
 
 Thumbs:
