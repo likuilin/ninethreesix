@@ -24,7 +24,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
 |               |               |               |               |               | SHFT-(1): DEL
 |  i    e    o  |  i    e    o  |  •            |       •       |            •  | CTRL-(1): Ctrl-V
 |               |               |               |               |               | RRLM: Shift-DEL
-|  a    h   TAB |CTRL• SHFT•    | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     |
+|  a    h   TAB |CTRL• SHFT•    | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     | MRMR: Ctrl-Shift-V
 '---------------'---------------'---------------'---------------'---------------'
 .---------------.---------------.---------------.---------------.
 |  1    4    7  | (2)  (3)  (4) | sHOM s↑  sEND | HOM   ↑   END | (2) PrintScreen/SysRq
@@ -48,9 +48,9 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    _    #  |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Alt-Del
-                |   (8)  (9) (7)|               |               | (8) Ctrl-Z
-                |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-\
+                |  /    _    #  |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Z
+                |   (7)  (8)  (9)               |               | (8) Ctrl-\
+                |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-Alt-Del
                 |---------------+---------------+---------------|
                 |  •            |       •       |            •  | (Think of $ and % as diagonal chords
                 |               |               |               |  on the numpad rather than down here)
@@ -64,14 +64,10 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (13) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                |  fg   cl   fl | (x)  iou   ou |  &    |   ESC |
-                |               |               |   F10  F11  F12 devtools :)
-                |  {    }   (17)|  [    ]   (15)|  <    >   (16)| (15) Alt-Tab (no holding)
-                '---------------'---------------'---------------' (16) Alt-ESC
-                                                                  (17) Alt-Shift-Tab
-
-Extra:
-* MRMR: Ctrl-Shift-V
+                |  fg   cl   fl | (x)  iou   ou |  &    |   ESC | (15) Alt-Shift-Tab (single press)
+                |               |               |   F10  F11  F12 (16) Alt-Tab (single press)
+                |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-ESC
+                '---------------'---------------'---------------'
 
 Thumbs:
 * T0 is left click
@@ -85,8 +81,6 @@ System: (here for convenience, all are default)
 * T0F4M cycle config        * T0F4L nav mode
 * T0F4R cycle bluetooth     * T14F4R reset bluetooth
 ```
-
-Tip: Since the only four-button chords are function keys and Ctrl-Z, all of which have the same button for fingers 3 and 4, while typing letters, a mis-chord can always be "cancelled" (without releasing all of the buttons in order to hit backspace) by pushing a different key on finger 4 than the one held down on finger 3 to select the page.
 
 ### Rationale and combinatorics
 
