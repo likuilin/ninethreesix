@@ -49,19 +49,19 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
                 |  /    _    #  |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Z
-                |   (7)  (8)  (9)               |               | (8) Ctrl-\
+                |   (7)  (8)  (9)   (10)        |               | (8) Ctrl-\
                 |  \    ~    0  |  +    ^    %  | (x)  (x)  (x) | (9) Ctrl-Alt-Del
-                |---------------+---------------+---------------|
-                |  •            |       •       |            •  | (Think of $ and % as diagonal chords
-                |               |               |               |  on the numpad rather than down here)
-                |       •       |       •       |       •       |
+                |---------------+---------------+---------------| (10) Alt-F4
+                |  •            |       •       |            •  | 
+                |               |               |               | (Think of $ and % as diagonal chords
+                |       •       |       •       |       •       |  on the numpad rather than down here)
                 |               |               |               |
                 |  !=   '    ?  |  =    ;    ly |  !    "    ?! |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  ion  `    $  | (10) (11) (12)|  (    )   (13)| (10) Ctrl-Shift-T
-                |---------------+---------------+---------------| (11) Shift-Enter
-                |  •            |       •       |            •  | (12) Shift-Tab
-                |               |               |               | (13) Alt-Shift-5
+                |  ion  `    $  | (11) (12) (13)|  (    )   (14)| (11) Ctrl-Shift-T
+                |---------------+---------------+---------------| (12) Shift-Enter
+                |  •            |       •       |            •  | (13) Shift-Tab
+                |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
                 |  fg   cl   fl | (x)  iou   ou |  &    |   ESC | (15) Alt-Shift-Tab (single press)
