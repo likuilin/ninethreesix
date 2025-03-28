@@ -56,15 +56,15 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (Think of $ and % as diagonal chords
                 |       •       |       •       |       •       |  on the numpad rather than down here)
                 |               |               |               |
-                |  !=   '    ?  |  =    ;    ly |  !    "    ?! |
+                |   i   '    ?  |  i    e    o  |  !    "    o  |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  ion  `    $  | (11) (12) (13)|  (    )   (14)| (11) Ctrl-Shift-T
+                |   ;   `    $  | (11) (12) (13)|  (    )   (14)| (11) Ctrl-Shift-T
                 |---------------+---------------+---------------| (12) Shift-Enter
                 |  •            |       •       |            •  | (13) Shift-Tab
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                |  fg   cl   fl | (x)  iou   ou |  &    |   ESC | (15) Alt-ESC
+                | (x)  (x)  (x) | (x)   &    =  | (x)   |   ESC | (15) Alt-ESC
                 |               |               |   F10  F11  F12 (16) Alt-Shift-Tab (single press)
                 |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-Tab (single press)
                 '---------------'---------------'---------------'
