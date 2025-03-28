@@ -58,7 +58,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
                 |               |               |               |
-                |  /    _    #  |  *    @   (x) |  ju  (x)  (x) | (7) Ctrl-Z
+                |  /    _    #  |  *    @   (x) |  ju   a←   a→ | (7) Ctrl-Z
                 |   (7)  (8)  (9)   (10)        |               | (8) Ctrl-\
                 |  \    ~    0  |  +    ^    %  |  a1   a2   a3 | (9) Ctrl-Alt-Del
                 |---------------+---------------+---------------| (10) Alt-F4
