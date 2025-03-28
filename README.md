@@ -36,14 +36,24 @@ In the chart below, each box is a page, and • represents a key held down to ac
 |            •  |            •  |(s=Shift-)  •  |            •  |      they are standard keyboard nums
 '---------------------------------------------------------------'
                 .---------------.---------------.---------------.
+                |  •            |       •       |            •  | (TODO: explain the vowel situation lol)
+                |               |               |               |
+                |  o    i    e  |  i    e    o  |  e    o    i  |
+                |               |               |               |
+                |  g    p    x  |  b    d    y  |  j    z    m  | (line is repeat info)
+                |               |               |               |
+                |               |               |               |
+                '---------------'---------------'---------------'
+                .---------------.---------------.---------------.
+                |  o    i    e  |  i    e    o  |  e    o    i  | (line is repeat info)
+                |               |               |               |
                 |  •            |       •       |            •  |
                 |               |               |               |
-                |  -   PDN  PUP | (5) ENTR  (6) |  :    ,    .  | (5) Alt-←
-                |               |               |               | (6) Alt-→
+                |  l    v       |  k    c    w  |  q    u    f  | (line is repeat info)
                 |               |               |               |
                 |               |               |               |
-                |               |               |               |
-                |---------------+---------------+---------------|
+                '---------------'---------------'---------------'
+                .---------------.---------------.---------------.
                 |  •            |       •       |(a=Alt-)    •  |
                 |               |               |               |
                 |  •            |  •            |  •            | (x) = not assigned
@@ -56,15 +66,15 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (Think of $ and % as diagonal chords
                 |       •       |       •       |       •       |  on the numpad rather than down here)
                 |               |               |               |
-                |   i   '    ?  |  i    e    o  |  !    "    o  |
+                |  ;    '    ?  |  -  ENTR   .  |  !    "    ,  |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |   ;   `    $  | (11) (12) (13)|  (    )   (14)| (11) Ctrl-Shift-T
+                |  :    `    $  | (11) (12) (13)|  (    )   (14)| (11) Ctrl-Shift-T
                 |---------------+---------------+---------------| (12) Shift-Enter
                 |  •            |       •       |            •  | (13) Shift-Tab
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                | (x)  (x)  (x) | (x)   &    =  | (x)   |   ESC | (15) Alt-ESC
+                | (x)  (x)  (x) | PDN   &    =  | PUP   |   ESC | (15) Alt-ESC
                 |               |               |   F10  F11  F12 (16) Alt-Shift-Tab (single press)
                 |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-Tab (single press)
                 '---------------'---------------'---------------'
