@@ -67,8 +67,8 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |       •       |       •       |       •       |  on the numpad rather than down here)
                 |               |               |               |
                 |  ;    '    ?  |  -  ENTR   .  |  !    "    ,  |
-                |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9|
-                |  :    `    $  | (11) (12) (13)|  (    )   (14)| (11) Ctrl-Shift-T
+                |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9| (11) Ctrl-Shift-T
+                |  :    `    $  | (11) (12) (13)|  (    )   (14)| MMMR: Ctrl-Alt-T
                 |---------------+---------------+---------------| (12) Shift-Enter
                 |  •            |       •       |            •  | (13) Shift-Tab
                 |               |               |               | (14) Alt-Shift-5
