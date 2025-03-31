@@ -38,14 +38,14 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 .---------------.---------------.---------------.
                 |  •            |       •       |            •  | (TODO: explain the vowel situation lol)
                 |               |               |               |
-                |  o    i    e  |  i    e    o  |  e    o    i  |
+                |  i    o    e  |  o    e    i  |  e    i    o  |
                 |               |               |               |
                 |  g    p    x  |  b    d    y  |  j    z    m  | (line is repeat info)
                 |               |               |               |
                 |               |               |               |
                 '---------------'---------------'---------------'
                 .---------------.---------------.---------------.
-                |  o    i    e  |  i    e    o  |  e    o    i  | (line is repeat info)
+                |  i    o    e  |  o    e    i  |  e    i    o  | (line is repeat info)
                 |               |               |               |
                 |  •            |       •       |            •  |
                 |               |               |               |
