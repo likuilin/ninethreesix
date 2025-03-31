@@ -73,7 +73,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |  •            |       •       |            •  | (13) Shift-Tab
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
-                |               |               |               |
+                |               |               |               | (Think of PUP and PDN as xLRO chords)
                 | (x)  (x)  (x) | PDN   &    =  | PUP   |   ESC | (15) Alt-ESC
                 |               |               |   F10  F11  F12 (16) Alt-Shift-Tab (single press)
                 |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-Tab (single press)
