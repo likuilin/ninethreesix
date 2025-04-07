@@ -27,7 +27,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
 |  a    h   TAB |CTRL• SHFT•    | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     | MRMR: Ctrl-Shift-V
 '---------------'---------------'---------------'---------------'---------------'
 .---------------.---------------.---------------.---------------.
-|  1    4    7  | (2)  (3)  (4) | sHOM s↑  sEND | HOM   ↑   END | (2) PrintScreen/SysRq
+|  1    4    7  | (2)  (3)  (4) |sHOME s↑  sEND | HOME  ↑   END | (2) PrintScreen/SysRq
 |   0           |               |               |               | (3) Scroll Lock
 |  2    5    8  | CapsL INS NumL|  s←  s↓   s→  |  ←    ↓    →  | (4) Pause/Break
 |               |               |               |               |
@@ -74,7 +74,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               | (Think of PUP and PDN as xLRO chords)
-                | (x)  (x)  (x) | PDN   &    =  | PUP   |   ESC | (15) Alt-ESC
+                | HOME (x)  (x) | PDN   &    =  | PUP   |   ESC | (15) Alt-ESC
                 |               |               |   F10  F11  F12 (16) Alt-Shift-Tab (single press)
                 |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-Tab (single press)
                 '---------------'---------------'---------------'
