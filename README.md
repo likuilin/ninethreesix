@@ -21,9 +21,9 @@ In the chart below, each box is a page, and • represents a key held down to ac
 |BCKSP SPC   s  |  a    h    s  |  g    b    j  |  p    d    z  |  x    y    m  |
 |               |               |               |               |               |
 |  n    t    r  |  n    t    r  |  l    k    q  |  v    c    u  | (1)   w    f  | Just (1): Ctrl-SPC
-|               |               |               |               |               | SHFT-(1): DEL
-|  i    e    o  |  i    e    o  |  •            |       •       |            •  | CTRL-(1): Ctrl-V
-|               |               |               |               |               | RRLM: Shift-DEL
+|               |               |               |               |               | Other-(1): See below
+|  i    e    o  |  i    e    o  |  •            |       •       |            •  |
+|               |               |               |               |               |
 |  a    h   TAB |CTRL• SHFT•    | CTRL SHFT     | CTRL SHFT     | CTRL SHFT     | MRMR: Ctrl-Shift-V
 '---------------'---------------'---------------'---------------'---------------'
 .---------------.---------------.---------------.---------------.
@@ -36,35 +36,35 @@ In the chart below, each box is a page, and • represents a key held down to ac
 |            •  |            •  |(s=Shift-)  •  |            •  |      they are standard keyboard nums
 '---------------------------------------------------------------'
                 .---------------.---------------.---------------.
-                |  •            |       •       |            •  | (TODO: explain the vowel situation lol)
+                |  •            |       •       |            •  | (TODO: explain the vowel situation)
                 |               |               |               |
                 |  i    o    e  |  o    e    i  |  e    i    o  |
                 |               |               |               |
-                |  g    p    x  |  b    d    y  |  j    z    m  | (line is repeat info)
+                |  g    p    x  |  b    d    y  |  j    z    m  | (row of repeats)
                 |               |               |               |
                 |               |               |               |
                 '---------------'---------------'---------------'
                 .---------------.---------------.---------------.
-                |  i    o    e  |  o    e    i  |  e    i    o  | (line is repeat info)
+                |  i    o    e  |  o    e    i  |  e    i    o  | (row of repeats)
                 |               |               |               |
                 |  •            |       •       |            •  |
                 |               |               |               |
-                |  l    v       |  k    c    w  |  q    u    f  | (line is repeat info)
+                |  l    v       |  k    c    w  |  q    u    f  | (row of repeats)
                 |               |               |               |
                 |               |               |               |
                 '---------------'---------------'---------------'
                 .---------------.---------------.---------------.
                 |  •            |       •       |(a=Alt-)    •  |
+                |               |               |               | (x) = not assigned
+                |  •            |  •            |  •            | (*) = assigned elsewhere, not useful
+                |               |               |               |       to show in this location
+                |  /    _   (*) |  *    @   (*) |  ju  (x)  (*) |
+                |   (7)       (*)   (8)       (*)             (*) (7) Ctrl-Z
+                |  \    ~    0  |  +    ^    %  | a1   a2   a3  | RRRM: Ctrl-\
+                |---------------+---------------+---------------| RRRL: Ctrl-Alt-DEL
+                |  •            |       •       |            •  | (8) Alt-F4
                 |               |               |               |
-                |  •            |  •            |  •            | (x) = not assigned
-                |               |               |               |
-                |  /    _    #  |  *    @   (x) |  ju   a←   a→ | (7) Ctrl-Z
-                |   (7)  (8)  (9)   (10)        |               | (8) Ctrl-\
-                |  \    ~    0  |  +    ^    %  |  a1   a2   a3 | (9) Ctrl-Alt-Del
-                |---------------+---------------+---------------| (10) Alt-F4
-                |  •            |       •       |            •  |
-                |               |               |               | (Think of $ and % as diagonal chords
-                |       •       |       •       |       •       |  on the numpad rather than down here)
+                |       •       |       •       |       •       |
                 |               |               |               |
                 |  ;    '    ?  |  -  ENTR   .  |  !    "    ,  |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9| (11) Ctrl-Shift-T
@@ -73,11 +73,20 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |  •            |       •       |            •  | (13) Shift-Tab
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
-                |               |               |               | (Think of PUP and PDN as xLRO chords)
-                | HOME (x)  (x) | PDN   &    =  | PUP   |   ESC | (15) Alt-ESC
-                |               |               |   F10  F11  F12 (16) Alt-Shift-Tab (single press)
-                |  {    }   (15)|  [    ]   (16)|  <    >   (17)| (17) Alt-Tab (single press)
-                '---------------'---------------'---------------'
+                |               |               |               |
+                | (x)  (x)  (x) |  #    &   (15)|  =    |   ESC | (15) Shift-ESC
+                |               |               |   F10  F11  F12 (16) Alt-ESC
+                |  {    }   (16)|  [    ]   (17)|  <    >   (18)| (17) Alt-Shift-Tab (single press)
+                '---------------'---------------'---------------' (18) Alt-Tab (single press)
+.---------------.---------------.---------------.---------------.
+| PDN  PUP  (x) | c+   c-   c0  | (x)  (19) (x) | a←   a→   (x) | (19) Shift-DEL 
+|               |               |               |               |
+|  •            |  •            |  •            |  •            |
+|               |               |               |               |
+|            •  |(c=Ctrl-)   •  |(s=Shift-)  •  |(a=Alt-)    •  |
+|               |               |               |               |
+| (20) DEL  (*) |  •            |       •       |            •  | (20) Ctrl-V (alternate)
+'---------------'---------------'---------------'---------------'
 
 Thumbs:
 * T0 is left click
