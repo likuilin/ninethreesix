@@ -74,12 +74,12 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (14) Alt-Shift-5
                 |            •  |            •  |            •  |           (Google Docs strikethrough)
                 |               |               |               |
-                | (x)  (x)  (x) |  #    &   (15)|  =    |   ESC | (15) Shift-ESC
+                | PUP  (x)   #  | PDN   &   (15)|  =    |   ESC | (15) Shift-ESC
                 |               |               |   F10  F11  F12 (16) Alt-ESC
                 |  {    }   (16)|  [    ]   (17)|  <    >   (18)| (17) Alt-Shift-Tab (single press)
                 '---------------'---------------'---------------' (18) Alt-Tab (single press)
 .---------------.---------------.---------------.---------------.
-| PUP  PDN  (x) | c+   c-   c0  | (x)  (19) (x) | a←   a→   (x) | (19) Shift-DEL 
+| PUP  PDN  (x) | c-   c+   c0  | (x)  (19) (x) | a←   a→   (x) | (19) Shift-DEL
 |               |               |               |               |
 |  •            |  •            |  •            |  •            |
 |               |               |               |               |
