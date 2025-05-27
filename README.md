@@ -58,9 +58,9 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               | (x) = not assigned
                 |  •            |  •            |  •            | (*) = assigned elsewhere, not useful
                 |               |               |               |       to show in this location
-                | ing   _   (*) |  *    @   (*) |  /    \   (*) |
+                |  /    _   (*) |  *    @   (*) | ing  (x)  (*) |
                 |   (7)       (*)   (8)       (*)             (*) (7) Ctrl-Z
-                | (x)   ~    0  |  +    ^    %  | a1   a2   a3  | RRRM: Ctrl-\
+                |  \    ~    0  |  +    ^    %  | a1   a2   a3  | RRRM: Ctrl-\
                 |---------------+---------------+---------------| RRRL: Ctrl-Alt-DEL
                 |  •            |       •       |            •  | (8) Alt-F4
                 |               |               |               |
