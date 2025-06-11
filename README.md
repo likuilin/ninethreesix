@@ -68,7 +68,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 |  ;    '    ?  |  -  ENTR   .  |  !    "    ,  |
                 |   F1   F2   F3|   F4   F5   F6|   F7   F8   F9| (11) Ctrl-Shift-T
-                |  :    `    $  | (11) (12) (13)|  (    )   (14)| MMMR: Ctrl-Alt-T
+                |  :    `    $  | (11) (12) (13)|  <    >   (14)| MMMR: Ctrl-Alt-T
                 |---------------+---------------+---------------| (12) Shift-Enter
                 |  •            |       •       |            •  | (13) Shift-Tab
                 |               |               |               | (14) Alt-Shift-5
@@ -76,7 +76,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
                 |               |               |               |
                 | PUP  (x)   fl | PDN   &    #  |  =    |   ESC | LLLM: Shift-ESC
                 |               |               |   F10  F11  F12 (16) Alt-ESC
-                |  {    }   (16)|  [    ]   (17)|  <    >   (18)| (17) Alt-Shift-Tab (single press)
+                |  {    }   (16)|  (    )   (17)|  [    ]   (18)| (17) Alt-Shift-Tab (single press)
                 '---------------'---------------'---------------' (18) Alt-Tab (single press)
 .---------------.---------------.---------------.---------------.
 | (x)  (x)  (x) | c-   c+   c0  | (x)  (19) (x) | a←   a→   (x) | (19) Shift-DEL
