@@ -122,12 +122,12 @@ More formal and concise summary of the combinatorics:
   * 6\*3 = all two-btns where (not 3O (equivalently, 3R or 3M or 3L)) and 4O
   * 6\*3\*2 = all three-btns where (not 3O) and (4R or 4M)
   * For a total of 84 combinations.
-* The second table assigns:
+* The second table and next two vowel tables assign:
   * Note: Zero is an exception and counted in the third table
   * 9 = all two-btns where 4L
   * 6\*3 = all three-btns where (not 3O) and 4L
   * For a total of 27 combinations.
-* The third table assigns:
+* The rest of the tables assign:
   * 3\*3 = all two-btns where 3O and 4O
   * 3\*3\*6 = all three-btns where (not 1O) and (not 2O)
   * 3^4 = all four-btns
