@@ -91,7 +91,7 @@ In the chart below, each box is a page, and • represents a key held down to ac
 Thumbs:
 * T0 is left click
 * T1 is GUI/Win
-* T2 is Ctrl, used to hit Ctrl-Shift keys and keys like Ctrl-+ and Ctrl-0
+* T2 is Shift, used to do hold-Shift and Ctrl-Shift keys
 * T3 is RGUI which is intercepted by Autohotkey in my setup (all others are left keys)
 * T4 is Alt
 
